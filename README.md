@@ -1,4 +1,4 @@
-# spi-rtl-design-verification
+
 # SPI RTL Design and Verification
 
 ## Overview
